@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="AironAir_Kapitaalbeheer.views.klant.GeldStorten"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AironAir_Kapitaalbeheer.views.klant"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Image Margin="283,70,285,234" Source="/media/Untitled-1.jpg" Stretch="Fill"/>
+        <Button Content="Terug" HorizontalAlignment="Left" Margin="204,239,0,0" VerticalAlignment="Top" Click="Button_Click" Height="79" Width="190" Background="#FFA50000" Foreground="White" BorderBrush="#FFA50000"/>
+        <Button Content="Storten" HorizontalAlignment="Left" Margin="399,239,0,0" VerticalAlignment="Top" Click="Button_Click_Login" Height="79" Width="190" Background="#FFA50000" Foreground="White" BorderBrush="Black"/>
+        <TextBox Name="em" HorizontalAlignment="Left" Margin="323,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="266"/>
+        <Label Content="Bedrag:" HorizontalAlignment="Left" Margin="201,0,0,0" VerticalAlignment="Center"/>
+    </Grid>
+</UserControl>

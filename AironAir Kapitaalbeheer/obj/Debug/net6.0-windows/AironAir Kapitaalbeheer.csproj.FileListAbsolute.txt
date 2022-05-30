@@ -1,0 +1,58 @@
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\AironAir Kapitaalbeheer.exe
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\AironAir Kapitaalbeheer.deps.json
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\AironAir Kapitaalbeheer.runtimeconfig.json
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\AironAir Kapitaalbeheer.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\ref\AironAir Kapitaalbeheer.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\AironAir Kapitaalbeheer.pdb
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.csproj.AssemblyReference.cache
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer_MarkupCompile.cache
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer_MarkupCompile.lref
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.g.resources
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.AssemblyInfoInputs.cache
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.AssemblyInfo.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.csproj.CoreCompileInputs.cache
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\ref\AironAir Kapitaalbeheer.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.pdb
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.genruntimeconfig.cache
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\AironAir Kapitaalbeheer.csproj.CopyComplete
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\MainMedewerker.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\Medewerker toevoegen.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\MainMedewerker.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\Medewerker toevoegen.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\AddGebruiker.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\BewerkGebruiker.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\ZoekResultatenNaam.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\ZoekResultatenRekNR.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\HoofdMenu.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\AddGebruiker.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\BewerkGebruiker.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\ZoekResultatenNaam.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\ZoekResultatenRekNR.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\HoofdMenu.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\Login.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\bankier\Login.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldOpnemen.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldOvermaken.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldStorten.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\LoginKlant.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\MainKlant.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\RecenteTransacties.g.cs
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldOpnemen.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldOvermaken.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\GeldStorten.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\LoginKlant.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\MainKlant.baml
+C:\Users\semeg\source\repos\AironAir Kapitaalbeheer\AironAir Kapitaalbeheer\obj\Debug\net6.0-windows\views\klant\RecenteTransacties.baml
